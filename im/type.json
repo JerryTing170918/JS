@@ -1,0 +1,119 @@
+
+[
+    [
+        {
+            "goodsId": 1,
+            "goodsImg": "../static/img/哈密瓜奶昔.png",
+            "goodsName": "哈密瓜奶昔",
+            "price": 10
+        },
+        {
+            "goodsId": 2,
+            "goodsImg": "../static/img/巧克力奶昔.png",
+            "goodsName": "巧克力奶昔",
+            "price": 9
+        },
+        {
+            "goodsId": 3,
+            "goodsImg": "../static/img/芒果奶昔.png",
+            "goodsName": "芒果奶昔",
+            "price": 10
+        },
+        {
+            "goodsId": 4,
+            "goodsImg": "../static/img/草莓奶昔.png",
+            "goodsName": "草莓奶昔",
+            "price": 9
+        },
+        {
+            "goodsId": 5,
+            "goodsImg": "../static/img/香蕉奶昔.png",
+            "goodsName": "香蕉奶昔",
+            "price": 10
+        }
+    ],
+    [
+        {
+            "goodsId": 6,
+            "goodsImg": "../static/img/哈密瓜奶茶.png",
+            "goodsName": "哈密瓜奶茶",
+            "price": 8
+        },
+        {
+            "goodsId": 7,
+            "goodsImg": "../static/img/巧克力奶茶.png",
+            "goodsName": "巧克力奶茶",
+            "price": 7
+        },
+        {
+            "goodsId": 8,
+            "goodsImg": "../static/img/木瓜奶茶.png",
+            "goodsName": "木瓜奶茶",
+            "price": 8
+        },
+        {
+            "goodsId": 9,
+            "goodsImg": "../static/img/红豆奶茶.png",
+            "goodsName": "红豆奶茶",
+            "price": 7
+        },
+        {
+            "goodsId": 10,
+            "goodsImg": "../static/img/草莓奶茶.png",
+            "goodsName": "草莓奶茶",
+            "price": 7
+        }   
+    ],
+    [
+        {
+            "goodsId": 11,
+            "goodsImg": "../static/img/哈密瓜沙冰.png",
+            "goodsName": "哈密瓜沙冰",
+            "price": 8
+        },
+        {
+            "goodsId": 12,
+            "goodsImg": "../static/img/巧克力沙冰.png",
+            "goodsName": "巧克力沙冰",
+            "price": 7
+        },
+        {
+            "goodsId": 13,
+            "goodsImg": "../static/img/红豆沙冰.png",
+            "goodsName": "红豆沙冰",
+            "price": 7
+        },
+        {
+            "goodsId": 14,
+            "goodsImg": "../static/img/芒果沙冰.png",
+            "goodsName": "芒果沙冰",
+            "price": 8
+        },
+        {
+            "goodsId": 15,
+            "goodsImg": "../static/img/草莓沙冰.png",
+            "goodsName": "草莓沙冰",
+            "price": 7
+        }
+    ],
+    [
+        {
+            "goodsId": 16,
+            "goodsImg": "../static/img/巧克力刨冰.png",
+            "goodsName": "巧克力刨冰",
+            "price": 7
+        },
+        {
+            "goodsId": 17,
+            "goodsImg": "../static/img/红豆刨冰.png",
+            "goodsName": "红豆刨冰",
+            "price": 7
+        },
+        {
+            "goodsId": 18,
+            "goodsImg": "../static/img/草莓刨冰.png",
+            "goodsName": "草莓刨冰",
+            "price": 8
+        }
+    ]
+]

@@ -1,0 +1,28 @@
+    [
+        {
+            "goodsId": 2,
+            "goodsImg": "../static/img/巧克力奶昔.png",
+            "goodsName": "巧克力奶昔",
+            "price": 9
+        }, {
+            "goodsId": 4,
+            "goodsImg": "../static/img/草莓奶昔.png",
+            "goodsName": "草莓奶昔",
+            "price": 9
+        }, {
+            "goodsId": 8,
+            "goodsImg": "../static/img/木瓜奶茶.png",
+            "goodsName": "木瓜奶茶",
+            "price": 8
+        }, {
+            "goodsId": 11,
+            "goodsImg": "../static/img/哈密瓜沙冰.png",
+            "goodsName": "哈密瓜沙冰",
+            "price": 8
+        }, {
+            "goodsId": 17,
+            "goodsImg": "../static/img/红豆刨冰.png",
+            "goodsName": "红豆刨冰",
+            "price": 7
+        }
+    ]
